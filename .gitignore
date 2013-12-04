@@ -1,0 +1,10 @@
+# generic
+*.py[co]
+*.sw*
+*.db
+
+# virtualenv
+/.Python
+/bin
+/include
+/lib
